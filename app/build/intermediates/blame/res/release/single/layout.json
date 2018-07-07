@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\bottom_tab_layout.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\bottom_tab_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_interact_images.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_interact_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\checkbox_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\checkbox_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_head.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\setting_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_list_chat_image.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_list_chat_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_bill_pay.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\dialog_bill_pay.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\head.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_expandablelist_child.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_expandablelist_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\my_radiobutton.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\my_radiobutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_time.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\select_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_blog_detail_fragment.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_blog_detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_achievement_detail_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_achievement_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_cut_image.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_cut_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\topbar_album.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\topbar_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_week.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\select_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\loading_dialog.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_contacts.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_textview.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_left_right_image_check.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\list_left_right_image_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9109c99992def6b08915305f28a3f0a3\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\express_gv.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\express_gv.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_baodao_handle.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_baodao_handle.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_capture.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\express_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\express_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\zoom_images.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\zoom_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\subject_head.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\subject_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_album_image.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\fragment_album_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\table.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\table.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\imageview_griditem.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\imageview_griditem.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_album_image_page.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_album_image_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9109c99992def6b08915305f28a3f0a3\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_search_list.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_exam_dialog.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_exam_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9109c99992def6b08915305f28a3f0a3\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_expandablelist_child_student.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_expandablelist_child_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_view_classroom_course.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_view_classroom_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_searchdialog.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_searchdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_login_poplist_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_login_poplist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tabhost.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_subject_body.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_subject_body.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_album_praise_detail.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_album_praise_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\localdocuments.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\localdocuments.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\empty_error.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\empty_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_dialog_schedule.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_dialog_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_testing_pop.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_testing_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_blog_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_blog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_header.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_album_flow.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_album_flow.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_xlistview_fragment.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_xlistview_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\tooltip.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_dorms.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_dorms.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_list_chat_left.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_list_chat_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_work_attendance_detail_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_work_attendance_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_album_personallist_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_album_personallist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\image_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\image_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\topbar.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\topbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9109c99992def6b08915305f28a3f0a3\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_subject_sections.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_subject_sections.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_left_right_image.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\list_left_right_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_ems_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\list_ems_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\remot_view.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\remot_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_album_comment.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\fragment_album_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_image.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9109c99992def6b08915305f28a3f0a3\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_submit.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_submit.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\web_site.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\web_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_change_pwd.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_change_pwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_listview_fragment.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_listview_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_bed_select_dialog.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_bed_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_achievement_or_question_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_achievement_or_question_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_list_chat_right.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_list_chat_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_message.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_notice_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_notice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_ems_trace.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_ems_trace.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9109c99992def6b08915305f28a3f0a3\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_notice_detail_fragment.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_notice_detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_list_classroom_course.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_list_classroom_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_get_picture.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_get_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_green_channel.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\dialog_green_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9109c99992def6b08915305f28a3f0a3\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_work_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_work_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_work_attendance_fragment.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_work_attendance_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\camera.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_liuyan_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_liuyan_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\common_datetime.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\common_datetime.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_loading_with_text.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\list_loading_with_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_person_info.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_person_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab_activity_school.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\tab_activity_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9109c99992def6b08915305f28a3f0a3\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_my_info.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_contacts_select.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_contacts_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_exam_login_dialog.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_exam_login_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\addexam_list_item_tag.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\addexam_list_item_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_title.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9109c99992def6b08915305f28a3f0a3\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_show_or_del_picture.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_show_or_del_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_empty.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\list_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_left_right.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\list_left_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_submit_list.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_submit_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_contacts.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\xlistview_footer.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_image_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_image_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_expandablelist_group.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_expandablelist_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_message_list.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_message_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_album_personal.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\activity_album_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_work_attendance_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_work_attendance_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_chat_interact.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\view_chat_interact.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\school_questionnaire_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\school_questionnaire_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\search_head.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\layout\\search_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\layout\\abc_screen_toolbar.xml"
+    }
+]

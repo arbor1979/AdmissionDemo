@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\raw\\tweet_sent.ogg",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\raw\\tweet_sent.ogg"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\raw\\tw_touch.ogg",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\raw\\tw_touch.ogg"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\raw\\dew_drops.ogg",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\raw\\dew_drops.ogg"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\raw\\sent_chat.ogg",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\raw\\sent_chat.ogg"
+    }
+]

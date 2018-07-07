@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f057.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f057.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f090.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f090.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f012.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f012.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f074.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f074.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f026.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f026.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f027.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f027.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f013.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f013.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f073.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f073.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f043.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f043.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f088.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f088.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f072.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f072.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f089.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f089.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f061.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f061.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f008.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f008.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f042.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f042.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f010.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f010.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f100.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f100.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f091.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f091.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f045.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f045.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f086.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f086.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f056.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f056.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f075.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f075.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f059.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f059.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f054.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f054.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f015.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f015.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f085.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f085.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f076.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f076.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f063.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f063.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f031.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f031.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f070.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f070.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f069.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f069.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f016.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f016.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f032.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f032.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f038.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f038.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f101.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f101.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f025.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f025.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f028.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f028.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f095.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f095.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f092.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f092.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f044.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f044.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f047.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f047.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f006.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f006.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f003.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f003.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f009.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f009.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f060.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f060.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f000.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f000.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f098.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f098.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f041.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f041.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f022.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f022.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f096.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f096.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f082.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f082.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f004.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f004.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f104.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f104.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f049.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f049.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f065.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f065.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f034.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f034.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f079.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f079.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f018.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f018.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f066.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f066.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f021.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f021.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f081.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f081.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f020.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f020.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f035.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f035.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f019.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f019.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f051.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f051.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f078.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f078.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f064.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f064.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f053.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f053.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f002.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f002.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f050.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f050.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f005.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f005.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f103.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f103.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f048.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f048.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f097.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f097.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f094.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f094.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f037.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f037.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f083.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f083.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f080.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f080.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f106.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f106.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f067.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f067.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f099.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f099.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f040.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f040.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f001.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f001.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f029.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f029.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f093.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f093.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f068.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f068.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f007.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f007.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f023.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f023.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f071.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f071.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f084.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f084.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f077.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f077.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f024.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f024.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f062.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f062.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f046.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f046.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f039.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f039.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f036.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f036.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f033.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f033.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f058.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f058.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f105.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f105.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f055.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f055.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f102.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f102.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f087.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f087.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f052.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f052.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f011.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f011.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f017.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f017.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f030.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f030.gif"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\f014.gif",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable-xhdpi\\f014.gif"
+    }
+]

@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="camera_dialog">
+        <item>拍照</item>
+        <item>本地图片</item>
+    </string-array>
+    <string-array name="course_dialog">
+        <item>暂停下载</item>
+        <item>取消下载</item>
+        <item>打开文件</item>
+        <item>删除本地文件</item>
+        <item>删除服务器文件</item>
+    </string-array>
+    <string-array name="date">
+        <item>阿妹</item>
+        <item>阿郎</item>
+        <item>陈奕迅</item>
+        <item>周杰伦</item>
+        <item>曾一鸣</item>
+        <item>成龙</item>
+        <item>王力宏</item>
+        <item>汪峰</item>
+        <item>王菲</item>
+        <item>那英</item>
+        <item>张伟</item>
+        <item>张学友</item>
+        <item>李德华</item>
+        <item>郑源</item>
+        <item>白水水</item>
+        <item>白天不亮</item>
+        <item>陈龙</item>
+        <item>陈丽丽</item>
+        <item>哈林</item>
+        <item>高进</item>
+        <item>高雷</item>
+        <item>阮今天</item>
+        <item>龚琳娜</item>
+        <item>苏醒</item>
+        <item>苏永康</item>
+        <item>陶喆</item>
+        <item>沙宝亮</item>
+        <item>宋冬野</item>
+        <item>宋伟</item>
+        <item>袁成杰</item>
+        <item>戚薇</item>
+        <item>齐大友</item>
+        <item>齐天大圣</item>
+        <item>品冠</item>
+        <item>吴克群</item>
+        <item>BOBO</item>
+        <item>Jobs</item>
+        <item>动力火车</item>
+        <item>伍佰</item>
+        <item>#蔡依林</item>
+        <item>$797835344$</item>
+        <item>Jack</item>
+        <item>~夏先生</item>
+    </string-array>
+    <string-array name="download">
+        <item>最近三天记录</item>
+        <item>最近一周记录</item>
+        <item>最近一个月记录</item>
+    </string-array>
+    <string-array name="send_status">
+        <item>送达</item>
+        <item>已读</item>
+        <item>失败</item>
+    </string-array>
+    <string-array name="upload_dialog">
+        <item>照相机</item>
+        <item>摄像机</item>
+        <item>本地相册</item>
+        <item>本地视频</item>
+        <item>本地音频</item>
+        <item>本地文档</item>
+    </string-array>
+    <color name="all_bg">#f5f5f5</color>
+    <color name="background">#0080C7</color>
+    <color name="background_gray">#EDEDED</color>
+    <color name="black">#000000</color>
+    <color name="blue_color_1">#6699ff</color>
+    <color name="blue_color_2">#3366cc</color>
+    <color name="blue_color_3">#003399</color>
+    <color name="blue_color_shade">#3698D2</color>
+    <color name="bn_nor">#d0decd</color>
+    <color name="bn_sel">#999999</color>
+    <color name="bottom_tab_bg_color">#43464A</color>
+    <color name="botton_tab_background">#094f07</color>
+    <color name="btn_work_attendance_bg">#505155</color>
+    <color name="bule_overlay">#660D92DD</color>
+    <color name="button_ok">#078347</color>
+    <color name="class_detail_bg">#e9f7ef</color>
+    <color name="common_frame">#55d2d2d7</color>
+    <color name="common_frame_sel">#55d2d2d7</color>
+    <color name="common_frame_sel_high">#88d2d2d7</color>
+    <color name="contacts_member_nor">#22000000</color>
+    <color name="contacts_member_sel">#99000000</color>
+    <color name="contacts_member_stroke">#44000000</color>
+    <color name="dialog_textColor">#444444</color>
+    <color name="dialog_textColorHint">#c2d2c9</color>
+    <color name="edit_color">#44b977</color>
+    <color name="field_text_color">#33a7ff</color>
+    <color name="get_pic">#eeeeee</color>
+    <color name="gray">#6c6c6c</color>
+    <color name="head_gray">#E2E7E5</color>
+    <color name="item_nor">#f6f6f6</color>
+    <color name="item_sel">#999999</color>
+    <color name="list_background">#E6FFFF</color>
+    <color name="list_empty_background">#ebe8e8</color>
+    <color name="login_delete_sel">#dd999999</color>
+    <color name="no_start_color">#d3912b</color>
+    <color name="none_color">#00000000</color>
+    <color name="radio_button_selected_color">#27ae62</color>
+    <color name="radio_button_unselected_color">@android:color/transparent</color>
+    <color name="red_color">#F20331</color>
+    <color name="runing_color">#27ae62</color>
+    <color name="semitransparent">#99000000</color>
+    <color name="shadow_end">#00000000</color>
+    <color name="shadow_start">#80000000</color>
+    <color name="stoped_color">#245bb1</color>
+    <color name="subject_double">#4ebc77</color>
+    <color name="subject_single">#288d4d</color>
+    <color name="text_gray">#ff666666</color>
+    <color name="title_bg">#f0eff4</color>
+    <color name="title_color">#333333</color>
+    <color name="title_nor">#00A2CA</color>
+    <color name="title_sel">#0362A6</color>
+    <color name="topbar_background">#00A2CA</color>
+    <color name="topbar_bg">#00000000</color>
+    <color name="topbar_btn_sel">#55ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="unread">#FFF6CE</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bottom_tab_layout_height">50.0dp</dimen>
+    <dimen name="bottom_tab_padding_drawable">1.0dip</dimen>
+    <dimen name="bottom_tab_padding_up">4.0dip</dimen>
+    <dimen name="footer_height">90dp</dimen>
+    <dimen name="footer_padding">10dp</dimen>
+    <dimen name="getpic_dialog_size_hight">220dp</dimen>
+    <dimen name="gridView_image_child_width">52dip</dimen>
+    <dimen name="gridView_width">300dip</dimen>
+    <dimen name="head_layout_height">48.0dp</dimen>
+    <dimen name="head_title_font_size">18sp</dimen>
+    <dimen name="header_height">60dp</dimen>
+    <dimen name="image_width">72dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="logout_button_height">45.0dp</dimen>
+    <dimen name="radio_button_conner_radius">5dp</dimen>
+    <dimen name="school_text_size">12sp</dimen>
+    <dimen name="shadow_size">8dip</dimen>
+    <dimen name="shadow_width">10dp</dimen>
+    <dimen name="slidingmenu_offset">100dp</dimen>
+    <dimen name="small">13sp</dimen>
+    <dimen name="subject_text">8sp</dimen>
+    <dimen name="text_size_big">18.0sp</dimen>
+    <dimen name="text_size_big2">20.0sp</dimen>
+    <dimen name="text_size_huge">24.0sp</dimen>
+    <dimen name="text_size_large">22.0sp</dimen>
+    <dimen name="text_size_micro">12.0sp</dimen>
+    <dimen name="text_size_normal">16.0sp</dimen>
+    <dimen name="text_size_small">14.0sp</dimen>
+    <dimen name="text_size_xmicro">10.0sp</dimen>
+    <dimen name="toolbar_height">46.0dip</dimen>
+    <dimen name="top_bar_btn">24dp</dimen>
+    <dimen name="topbar_button_layout_height">22dip</dimen>
+    <dimen name="topbar_layout_height">50.0dp</dimen>
+    <dimen name="topbar_title_font_size">20sp</dimen>
+    <dimen name="userName_text_size">18sp</dimen>
+    <dimen name="work_attendance_hight">210dip</dimen>
+    <integer name="emotion_colnum">7</integer>
+    <integer name="num_cols">1</integer>
+    <string name="Commons.Ok">确定</string>
+    <string name="Commons.SDCardErrorNoSDMsg">找不到SD卡</string>
+    <string name="Commons.SDCardErrorSDUnavailable">SD卡不能使用</string>
+    <string name="Commons.SDCardErrorTitle">SD卡不能使用</string>
+    <string name="IncompleteAddress">不完整的下载地址！</string>
+    <string name="LoginTitle">迎新助手-中职版</string>
+    <string name="Moodle_reminder">掌上魔灯日程提醒</string>
+    <string name="NoSDCard">没有SD卡！</string>
+    <string name="Startdownloading">开始下载</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="absence">缺勤</string>
+    <string name="add">新增</string>
+    <string name="address">家庭住址：</string>
+    <string name="album">相册</string>
+    <string name="album_hint">天气不错，心情也不错…</string>
+    <string name="albumempty">校园相册为空</string>
+    <string name="alert_confirm_delete_all_cached_images">确认删除所有缓存图片,包括用户头像和聊天图片?</string>
+    <string name="alert_dialog_cancel">取消</string>
+    <string name="alert_dialog_ok">确定</string>
+    <string name="app_name">迎新助手</string>
+    <string name="app_version">软件版本：</string>
+    <string name="attachment">附件</string>
+    <string name="attend">出勤</string>
+    <string name="back">返回</string>
+    <string name="beforeyestoday">前天</string>
+    <string name="border_bottom">Border Bottom</string>
+    <string name="border_top">Border Top</string>
+    <string name="bottom_info">该生详细信息共3页  请滑动查看</string>
+    <string name="brought_class">所带班级</string>
+    <string name="brought_course">所带课程</string>
+    <string name="call_attend">此次出勤率为</string>
+    <string name="call_phone">拨打电话</string>
+    <string name="call_save">保存数据</string>
+    <string name="call_stu_attend">该生出勤率为</string>
+    <string name="call_title">系统默认状态为已出勤，请根据实际情况做相应操作。</string>
+    <string name="cancel">取消</string>
+    <string name="cancelDownload">取消下载</string>
+    <string name="changeavatar">更换头像</string>
+    <string name="check_network">请检查网络后轻点屏幕重试</string>
+    <string name="choose_upload">选择文件上传</string>
+    <string name="classroom_call">点名</string>
+    <string name="classroom_course">课件</string>
+    <string name="classroom_summary">总结</string>
+    <string name="classroom_test">测验</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="cleared_all_cached_images">已清除所有缓存文件</string>
+    <string name="clearmessagehistory">清除手机聊天记录？</string>
+    <string name="clicktoviewpic">点击看图集</string>
+    <string name="close">关闭</string>
+    <string name="confirmlogout">确定要退出登录吗？</string>
+    <string name="contacts">联系人</string>
+    <string name="content_hint">请输入授课内容总结</string>
+    <string name="continue1">继续</string>
+    <string name="course">课程</string>
+    <string name="course_profile">课程简介</string>
+    <string name="course_rating">课程评分</string>
+    <string name="curriculum">课表</string>
+    <string name="data_init_loadings">数据初始化中…</string>
+    <string name="data_loading_progress">加载中…</string>
+    <string name="data_request_failure">数据获取失败</string>
+    <string name="dataprocessing">数据处理中…</string>
+    <string name="date_section1">昨天</string>
+    <string name="date_section2">今天</string>
+    <string name="date_section3">明天</string>
+    <string name="delFile">删除文件</string>
+    <string name="delRemoteFile">删除远程文件</string>
+    <string name="delay_item">缓交项目</string>
+    <string name="delay_reason">缓交原因</string>
+    <string name="delete">删除</string>
+    <string name="deleteRemoteFileSuc">删除远程文件成功！</string>
+    <string name="deleteSuc">删除成功！</string>
+    <string name="deleteconfirm">删除确认</string>
+    <string name="details">详情</string>
+    <string name="dialog_pleaseconfirmyournotice">如果已收到通知书，请先进行通知书确认</string>
+    <string name="dialog_pleaseinputyourletterno">是否确认入读本校？如选入读，需在随后的页面完成个人资料，如选放弃，需要到招生办申请退档。</string>
+    <string name="download">下载</string>
+    <string name="downloadcomplete">下载完成！</string>
+    <string name="en_today">Today</string>
+    <string name="en_tomorrow">Tomorrow</string>
+    <string name="en_yesterday">Yesterday</string>
+    <string name="end_week">起始周</string>
+    <string name="enter">入读</string>
+    <string name="enter_confirm">入读确认</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_unknown">发送返回</string>
+    <string name="error_idnumber_required">请输入身份证号</string>
+    <string name="error_mobile_number_required">请输入手机号</string>
+    <string name="error_site_required">请输入魔灯平台地址</string>
+    <string name="error_username_required">请输入用户名</string>
+    <string name="etcpeople">等%d人</string>
+    <string name="exitfullscreen">退出全屏</string>
+    <string name="failed">失败</string>
+    <string name="failedcopytosdcard">向SD卡复制文件出错</string>
+    <string name="feedback_content_hint">请输入您的意见</string>
+    <string name="feedback_send">提交意见</string>
+    <string name="feedback_title">\u3000\u3000如果您在使用中有什么问题或建议，欢迎告知我们，我们的技术人员会努力帮您解决。</string>
+    <string name="filenamenotempty">文件名不能为空</string>
+    <string name="filenotexist">文件不存在或大小为0！</string>
+    <string name="filenum">文件数:</string>
+    <string name="first_experience">进入演示</string>
+    <string name="firstone">已是第一张</string>
+    <string name="footer_hint_load_normal">查看更多</string>
+    <string name="footer_hint_load_ready">松开载入更多</string>
+    <string name="friday">周五</string>
+    <string name="from">来自:</string>
+    <string name="getcamerafailed">获取拍照文件失败</string>
+    <string name="giveup">放弃</string>
+    <string name="go">确定</string>
+    <string name="grade_search">成绩查询</string>
+    <string name="groupsend">群发</string>
+    <string name="hasreceived">已收到</string>
+    <string name="header_hint_refresh_loading">正在刷新…</string>
+    <string name="header_hint_refresh_normal">下拉可以刷新</string>
+    <string name="header_hint_refresh_ready">松开可以刷新</string>
+    <string name="header_hint_refresh_time">更新于：</string>
+    <string name="hint_address">you@domian.com</string>
+    <string name="hint_login_code">请输入短信验证码</string>
+    <string name="hint_login_idcard">请输入身份证号</string>
+    <string name="hint_login_mobile">请输入您的手机号</string>
+    <string name="hint_login_password">请输入您的密码</string>
+    <string name="hint_login_site">请输入魔灯平台地址</string>
+    <string name="hint_login_username">请输入您的用户名</string>
+    <string name="hint_name">请输入您的真实姓名</string>
+    <string name="hint_password">请输入您的登陆密码</string>
+    <string name="hint_re_password">请再次输入登录密码</string>
+    <string name="hint_verify_info">请登录邮箱获取验证码</string>
+    <string name="homework">课后作业</string>
+    <string name="homework_hint">请输入布置作业内容</string>
+    <string name="hoursago">小时前</string>
+    <string name="ifclearunread">是否清除所有未读状态</string>
+    <string name="ifconfirm">是否确认</string>
+    <string name="ifconfirmdelete">是否确认删除此条留言?</string>
+    <string name="image">图片</string>
+    <string name="image_url">Image Url</string>
+    <string name="inputoldpwd">请输入旧密码</string>
+    <string name="instruction">使用说明</string>
+    <string name="instruction_info">本系统仅提供给使用“单点掌上校园”或“单点数字化校园”系统的学校使用，如果您是一个普通老师，请先到<a href="www.dandian.net/laoshi">www.dandian.net/laoshi</a>页面下载应用。</string>
+    <string name="isnotWifi">您当前非WIFI网络，继续下载将消耗GPRS流量</string>
+    <string name="isuploading">正在上传…</string>
+    <string name="justnow">刚刚</string>
+    <string name="label_register">注册</string>
+    <string name="last_week">上周</string>
+    <string name="lastone">已是最后一张</string>
+    <string name="late">迟到</string>
+    <string name="leave">请假</string>
+    <string name="loadedalldata">已加载所有</string>
+    <string name="location_picture">本地图片</string>
+    <string name="logging">登录中…</string>
+    <string name="login">登录系统</string>
+    <string name="login_bottom">CopyRightⓒ单点科技</string>
+    <string name="login_left_bottom">如何开通掌上魔灯？</string>
+    <string name="login_title">掌上魔灯</string>
+    <string name="logintime">登录时间</string>
+    <string name="logout">退出登录</string>
+    <string name="maxfilesize">对不起，您上传的文件太大了，请选择小于%1$dM的文件！</string>
+    <string name="member">成员</string>
+    <string name="menu_settings">Settings</string>
+    <string name="message">消息</string>
+    <string name="messagehistoryclear">聊天记录已清除</string>
+    <string name="minutesago">分钟前</string>
+    <string name="monday">周一</string>
+    <string name="moodleuser">魔灯用户</string>
+    <string name="mycampusnotify">掌上魔灯通知</string>
+    <string name="myfileisnull">私人文件柜为空</string>
+    <string name="mystatus">我的</string>
+    <string name="nameuploadfile">为上传的文件起一个名字</string>
+    <string name="networkinterrupted">您的网络连接已中断！</string>
+    <string name="newpwd">新密码</string>
+    <string name="newversion">新版本可供升级</string>
+    <string name="next_week">下周</string>
+    <string name="no">否</string>
+    <string name="no_data">没有数据记录</string>
+    <string name="noappcanopenthis">没有可以打开此文件的程序</string>
+    <string name="nocannotbeempty">通知书编号不能为空</string>
+    <string name="nodata">没有数据.</string>
+    <string name="nomessage">无聊天消息</string>
+    <string name="noschedule">您没有日程安排</string>
+    <string name="nosubmitdata">没有需提交的数据</string>
+    <string name="notice_class_hint">请选择要发送通知的班级</string>
+    <string name="notice_content_hint">请输入通知内容…</string>
+    <string name="notice_send">发送通知</string>
+    <string name="notreceive">未收到</string>
+    <string name="oldpwd">旧密码</string>
+    <string name="oldpwdwrong">旧密码不正确！</string>
+    <string name="openFile">打开文件</string>
+    <string name="openfullscreen">开启全屏</string>
+    <string name="page_feedback">意见反馈</string>
+    <string name="page_myalbum">我的相册</string>
+    <string name="page_mycourse">我的课表</string>
+    <string name="page_myinfo">我的资料</string>
+    <string name="page_notice">班级通知</string>
+    <string name="page_questions">常见问题</string>
+    <string name="page_recommend">推荐给好友</string>
+    <string name="page_setting">系统设置</string>
+    <string name="parentFold">上一级</string>
+    <string name="parent_name">家长姓名：</string>
+    <string name="parent_phone">家长电话：</string>
+    <string name="pauseDownload">暂停下载</string>
+    <string name="people">人</string>
+    <string name="personal_account">个人账户</string>
+    <string name="pize">拍照</string>
+    <string name="please_choose_user_type">请选择用户类型</string>
+    <string name="pleasefinishform">请完成问卷再提交</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+    <string name="ptr_loading">Loading</string>
+    <string name="ptr_pull_to_refresh">Pull to refresh</string>
+    <string name="ptr_release_to_refresh">Release to refresh</string>
+    <string name="pwdisdifferent">两次输入密码不一致</string>
+    <string name="pwdisempty">密码不能为空</string>
+    <string name="rank">评级</string>
+    <string name="re_register_password">重复密码</string>
+    <string name="read_more">阅读全文</string>
+    <string name="refreshpersonalinfo">正在刷新个人资料</string>
+    <string name="register">注册账号</string>
+    <string name="register_address">注册邮箱</string>
+    <string name="register_instruction">说明：</string>
+    <string name="register_instruction_info">此注册流程仅限于老师使用，注册完成以后老师可以使用些应用进行管理班级、学生、课表、测验、成绩，以及可以和学生及学生家长进行沟通等操作。</string>
+    <string name="register_instruction_info1">学生在“掌上校园”应用中使用。</string>
+    <string name="register_instruction_info2">家长在“掌上校园”应用中使用。</string>
+    <string name="register_name">真实姓名</string>
+    <string name="register_password">登陆密码</string>
+    <string name="register_verify">验证码</string>
+    <string name="reply">回复</string>
+    <string name="roll_call">点名</string>
+    <string name="saturday">周六</string>
+    <string name="save">保存</string>
+    <string name="savesuc">保存成功！</string>
+    <string name="saving">保存中…</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="schedules">个日程安排</string>
+    <string name="school">课程</string>
+    <string name="schoolintro">学校</string>
+    <string name="search_cancel">取消</string>
+    <string name="search_choose_cls">搜索班级</string>
+    <string name="search_choose_hint">请输入关键字</string>
+    <string name="search_choose_stu">搜索学生</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string name="selectFilenotexist">所选文件不存在</string>
+    <string name="selectlinkman">选择联系人</string>
+    <string name="send">发送</string>
+    <string name="send_sms">发送短信</string>
+    <string name="sendmsg">发消息</string>
+    <string name="settings_aboutus">关于我们</string>
+    <string name="settings_alert">课前提醒</string>
+    <string name="settings_alerttime">每日提醒时间</string>
+    <string name="settings_changePwd">修改密码</string>
+    <string name="settings_confirmnewpwd">确认新密码</string>
+    <string name="settings_confirmnewpwdtip">再次填写新密码</string>
+    <string name="settings_contract">软件授权协议</string>
+    <string name="settings_cur_xueqi">当前学期</string>
+    <string name="settings_dayalert">每日课程提醒</string>
+    <string name="settings_initinfo">初始化数据</string>
+    <string name="settings_newpwd">密码</string>
+    <string name="settings_newpwdtip">填写新密码</string>
+    <string name="settings_notice_already_confirm">已确认入读</string>
+    <string name="settings_notice_confirm">入读确认</string>
+    <string name="settings_option">设置选项</string>
+    <string name="settings_schedule">上课时间表</string>
+    <string name="settings_userId">用户名</string>
+    <string name="show">查看</string>
+    <string name="sms_verify">验证码</string>
+    <string name="start_week">起始周</string>
+    <string name="startdownloadbackground">已开始后台下载..</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stu_email">学生邮箱：</string>
+    <string name="stu_phone">学生电话：</string>
+    <string name="stu_remark">该生备注：</string>
+    <string name="student">学生</string>
+    <string name="study">学习</string>
+    <string name="stuinfo">学生详情</string>
+    <string name="submitInfo">报到</string>
+    <string name="submit_photo">上传头像</string>
+    <string name="summary">总结</string>
+    <string name="summary_attend">出勤汇总</string>
+    <string name="summary_bad">差</string>
+    <string name="summary_content">授课内容</string>
+    <string name="summary_discipline">授课纪律评价</string>
+    <string name="summary_exam">测验汇总</string>
+    <string name="summary_good">良</string>
+    <string name="summary_grade">成绩汇总</string>
+    <string name="summary_health">教室卫生评价</string>
+    <string name="summary_homework">作业布置</string>
+    <string name="summary_mark">本次授课综合评分为</string>
+    <string name="summary_perfect">优</string>
+    <string name="summary_text">分</string>
+    <string name="summary_well">中</string>
+    <string name="sunday">周日</string>
+    <string name="teacher">教师</string>
+    <string name="teacher_profile">教师简介</string>
+    <string name="thecity">城市</string>
+    <string name="theclass">班级</string>
+    <string name="thecountry">国家</string>
+    <string name="thedepartment">系别</string>
+    <string name="theemail">邮箱</string>
+    <string name="theschool">学校</string>
+    <string name="thestudy">选修课程</string>
+    <string name="theteach">管理课程</string>
+    <string name="this_week">本周</string>
+    <string name="thursday">周四</string>
+    <string name="time_to">至</string>
+    <string name="title_activity_baodao_handle">报到处理</string>
+    <string name="toast_text">服务器未响应，建议请重新登录系统！</string>
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+    <string name="total_0_data">共0条数据</string>
+    <string name="trace">追踪</string>
+    <string name="tryresend">正在尝试重发..</string>
+    <string name="tuesday">周二</string>
+    <string name="uploadSuccess">上传成功！</string>
+    <string name="uploadfail">上傳失敗！</string>
+    <string name="uploading">上传</string>
+    <string name="userinfo">用户信息</string>
+    <string name="usertype">用户类型</string>
+    <string name="version_detection">版本检测</string>
+    <string name="view_by_week">按周查询:</string>
+    <string name="views">次浏览</string>
+    <string name="waitreturn">上传完毕，等待返回结果…</string>
+    <string name="wednesday">周三</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载…</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="yes">是</string>
+    <string name="yestoday">昨天</string>
+    <string name="youhave">您有</string>
+    <style name="AppBaseTheme" parent="android:Theme.Black.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="Button">
+        <item name="android:width">0dip</item>
+    </style>
+    <style name="CustomDialog" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_anim_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_anim_exit</item>
+    </style>
+    <style name="CustomProgressStyle" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:minWidth">24dip</item>
+        <item name="android:maxWidth">24dip</item>
+        <item name="android:minHeight">24dip</item>
+        <item name="android:maxHeight">24dip</item>
+    </style>
+    <style name="RadioButton">
+        <item name="android:textColor">@drawable/button_text_color</item>
+        <item name="android:minHeight">33dp</item>
+        <item name="android:minWidth">70dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:button">@null</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style>
+    <style name="bottom_tab_class_detail_tv">
+        <item name="android:textSize">@dimen/small</item>
+        <item name="android:textColor">@color/bottom_tab_class_detail_text_selector</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center|bottom</item>
+        <item name="android:paddingTop">@dimen/bottom_tab_padding_up</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/bottom_tab_layout_height</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">@dimen/bottom_tab_padding_drawable</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="bottom_tab_tv">
+        <item name="android:textSize">@dimen/small</item>
+        <item name="android:textColor">@color/tab_text_selector</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center|bottom</item>
+        <item name="android:paddingTop">@dimen/bottom_tab_padding_up</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/bottom_tab_layout_height</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">@dimen/bottom_tab_padding_drawable</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="dialogWindowAnim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/contacts_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/contacts_dialog_out</item>
+    </style>
+    <style name="exam_top" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="foodRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/star_rating_bar_full</item>
+       
+    </style>
+    <style name="foodRatingBarBig" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/star_rating_bar_full_big</item>
+       
+    </style>
+    <style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/loading_bg</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="popupAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/push_botton_in</item>
+        <item name="android:windowExitAnimation">@anim/push_botton_out</item>
+    </style>
+    <style name="progress_bar_style" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/progress_bar</item>
+    </style>
+    <style name="school_text_style">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:background">@drawable/school_text_background</item>
+    </style>
+    <style name="school_title_style">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size_big</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="spinner_text">
+        <item name="android:textColor">@color/edit_color</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+    </style>
+    <style name="subject_actionbar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@null</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="text_black">
+        <item name="android:textColor">@drawable/default_text_color</item>
+    </style>
+    <style name="text_black_mid" parent="@style/text_black">
+        <item name="android:textSize">16.0sp</item>
+    </style>
+    <style name="top_bar_btn">
+        <item name="android:layout_width">@dimen/top_bar_btn</item>
+        <item name="android:layout_height">@dimen/top_bar_btn</item>
+        <item name="android:background">@null</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="zoomdialog" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/semitransparent</item>
+        <!-- 背景透明 -->
+
+    </style>
+</resources>

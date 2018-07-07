@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_right_msg_select.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chat_right_msg_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_frame_sel.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\common_frame_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\express_item.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\express_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_round_corner_green.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\button_round_corner_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\botton_contact_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\botton_contact_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_checked_right.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_checked_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_achievement_brown.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_achievement_brown.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_questionnaire_runing_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_questionnaire_runing_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shadow_top.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\shadow_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\subject_bn_nor.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\subject_bn_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\textview_rect_stroke.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\textview_rect_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_unchecked_bottom.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_unchecked_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\star_rating_bar_full_big.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\star_rating_bar_full_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_achievement_pink.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_achievement_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_achievement_red.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_achievement_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\edittext_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_sendstate_bg_fail.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chat_sendstate_bg_fail.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_achievement_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_achievement_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_questionnaire_stoped_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_questionnaire_stoped_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_round_corner_blue.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\button_round_corner_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm_title_back_btn.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\title_layout_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\title_layout_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_work_attendance_text_right.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_work_attendance_text_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_left_msg_select.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chat_left_msg_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_text_color.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\button_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_list_item_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\dialog_list_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_num_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\round_num_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_work_attendance_text_left.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_work_attendance_text_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chatmsginfo_bg_sel.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chatmsginfo_bg_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_achievement_blue.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_achievement_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bottom_message_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\bottom_message_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_bar.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_bn_bg_nor.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\dialog_bn_bg_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_unchecked_right.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_unchecked_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chatmsginfo_bg_nor.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chatmsginfo_bg_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_frame.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\common_frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shadow_left.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\shadow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_bn_bg_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\dialog_bn_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_unchecked_left.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_unchecked_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_work_attendance_text_normal.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_work_attendance_text_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rediogrooup_background.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\rediogrooup_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_work_attendance_text_left_normal.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_work_attendance_text_left_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_work_attendance_text_left_sel.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_work_attendance_text_left_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_color_nor.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\setting_color_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_questionnaire_no_start_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_questionnaire_no_start_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\default_text_color.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\default_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\topbar_layout_btn_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\topbar_layout_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_unchecked_top.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_unchecked_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_unchecked_default.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_unchecked_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_work_attendance_text_right_sel.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_work_attendance_text_right_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contacts_member_sel.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\contacts_member_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_unchecked_middle.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_unchecked_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_sendstate_bg_hassend.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chat_sendstate_bg_hassend.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_round_corner_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chat_round_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_bg_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\setting_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\corner_view_green.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\corner_view_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contacts_member_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\contacts_member_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\subject_bn_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\subject_bn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\star_rating_bar_full.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\star_rating_bar_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pic_choose_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\pic_choose_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\login_delete_bg_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\login_delete_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_bottombar_btn_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chat_bottombar_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_exit_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\setting_exit_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_work_attendance_text_right_normal.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_work_attendance_text_right_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_go_back_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\btn_go_back_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bottom_course_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\bottom_course_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_checked_bottom.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_checked_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_frame_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\common_frame_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shadow_bottom.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\shadow_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_color_sel.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\setting_color_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chatmsginfo_bg_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chatmsginfo_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notice_choose_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\notice_choose_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_checked_left.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_checked_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images_progress.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\images_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\school_text_background.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\school_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\compose_pic_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\compose_pic_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_checked_default.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_checked_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_content_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\dialog_content_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\round_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_layout.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\btn_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bottom_album_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\bottom_album_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\title_back_bg_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\title_back_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_checked_middle.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_checked_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_bn_bg_sel.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\dialog_bn_bg_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\chat_sendstate_bg_hasread.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\chat_sendstate_bg_hasread.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\roundcorner_graybg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\roundcorner_graybg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\corner_view_gray.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\corner_view_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contacts_member_nor.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\contacts_member_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\botton_school_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\botton_school_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\login_delete_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\login_delete_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_checked_top.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_checked_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radio_unchecked_middle_vertical.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\radio_unchecked_middle_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shadow.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shadow_right.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_border.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\eadee0b1d91293440045f114ebd8745d\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bottom_communication_selector.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\bottom_communication_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\summary_bg.xml",
+        "source": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\src\\main\\res\\drawable\\summary_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\qiaolin\\AndroidStudioProjects\\Admission\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\qiaolin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\739c7c4d6a2ab0a463b63cb69cf5bebc\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

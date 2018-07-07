@@ -1,0 +1,573 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:2:1-262:12
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:2:1-262:12
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:2:1-262:12
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:2:1-262:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b376c6b3e33b7ba0f6c290336a1c5ea\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\215de8e38208636c5b19ee418c416c7b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\78e4e52860e4747d4ea47447979ac708\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5ea3603121fa0774230d4ade80a42f3a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2287164122cf1699c74b5f6618c0d38\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e54879974dc3e3d63a2420b618bbd958\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b8202050183f346dff3c0dc9c9581a16\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aeafa790ae37629ea7e7ff2fd544102c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f07691581c47c65c9b827823aae1ac28\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d15dceb65d4ca9d89c05c6b8cddd8fd0\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:2:1-262:12
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:2:1-262:12
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:2:1-262:12
+	package
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b376c6b3e33b7ba0f6c290336a1c5ea\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b376c6b3e33b7ba0f6c290336a1c5ea\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\215de8e38208636c5b19ee418c416c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\215de8e38208636c5b19ee418c416c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\78e4e52860e4747d4ea47447979ac708\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\78e4e52860e4747d4ea47447979ac708\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5ea3603121fa0774230d4ade80a42f3a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5ea3603121fa0774230d4ade80a42f3a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2287164122cf1699c74b5f6618c0d38\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2287164122cf1699c74b5f6618c0d38\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e54879974dc3e3d63a2420b618bbd958\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e54879974dc3e3d63a2420b618bbd958\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b8202050183f346dff3c0dc9c9581a16\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b8202050183f346dff3c0dc9c9581a16\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aeafa790ae37629ea7e7ff2fd544102c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aeafa790ae37629ea7e7ff2fd544102c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f07691581c47c65c9b827823aae1ac28\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f07691581c47c65c9b827823aae1ac28\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d15dceb65d4ca9d89c05c6b8cddd8fd0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d15dceb65d4ca9d89c05c6b8cddd8fd0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b376c6b3e33b7ba0f6c290336a1c5ea\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+		INJECTED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:18:22-63
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:22:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:25:5-69
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:25:22-66
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:26:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:27:22-85
+uses-permission#baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.dandian.admission
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:29:5-106
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:29:22-103
+permission#baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.dandian.admissiondemo
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:30:5-33:18
+	android:protectionLevel
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:32:9-41
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:31:9-94
+uses-feature#android.hardware.camera
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:35:5-60
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:35:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:36:5-70
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:36:19-67
+application
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:38:5-260:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b376c6b3e33b7ba0f6c290336a1c5ea\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b376c6b3e33b7ba0f6c290336a1c5ea\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\215de8e38208636c5b19ee418c416c7b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\215de8e38208636c5b19ee418c416c7b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\78e4e52860e4747d4ea47447979ac708\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\78e4e52860e4747d4ea47447979ac708\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5ea3603121fa0774230d4ade80a42f3a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5ea3603121fa0774230d4ade80a42f3a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2287164122cf1699c74b5f6618c0d38\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2287164122cf1699c74b5f6618c0d38\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e54879974dc3e3d63a2420b618bbd958\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e54879974dc3e3d63a2420b618bbd958\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b8202050183f346dff3c0dc9c9581a16\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b8202050183f346dff3c0dc9c9581a16\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aeafa790ae37629ea7e7ff2fd544102c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aeafa790ae37629ea7e7ff2fd544102c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f07691581c47c65c9b827823aae1ac28\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f07691581c47c65c9b827823aae1ac28\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d15dceb65d4ca9d89c05c6b8cddd8fd0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d15dceb65d4ca9d89c05c6b8cddd8fd0\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:42:9-41
+	android:icon
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:41:9-45
+	android:allowBackup
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:40:9-35
+	android:theme
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:43:9-40
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:39:9-42
+activity#com.dandian.admissiondemo.activity.TabHostActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:44:9-56:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:49:13-49
+	android:launchMode
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:48:13-44
+	android:windowSoftInputMode
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:50:13-64
+	android:exported
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:47:13-36
+	android:configChanges
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:46:13-74
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:45:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:54:27-74
+activity#com.dandian.admissiondemo.activity.MyStatusActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:57:9-60:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:58:13-54
+activity#com.dandian.admissiondemo.activity.TabSchoolActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:61:9-64:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:62:13-55
+activity#com.dandian.admissiondemo.activity.SubmitDataActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:65:9-68:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:66:13-56
+activity#com.dandian.admissiondemo.activity.AlbumFlowActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:69:9-72:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:70:13-55
+activity#com.dandian.admissiondemo.activity.AlbumShowImagePage
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:73:9-76:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:74:13-56
+activity#com.dandian.admissiondemo.activity.AlbumPersonalActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:77:9-80:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:78:13-59
+activity#com.dandian.admissiondemo.activity.AlbumShowImageDetail
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:81:9-84:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:83:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:82:13-58
+activity#com.dandian.admissiondemo.activity.ChangePwdActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:85:9-88:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:86:13-55
+activity#com.dandian.admissiondemo.activity.ContactsSelectActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:89:9-92:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:90:13-60
+activity#com.dandian.admissiondemo.activity.ContactsActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:93:9-97:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:95:13-49
+	android:windowSoftInputMode
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:96:13-72
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:94:13-54
+activity#com.dandian.admissiondemo.activity.ChatMsgActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:98:9-103:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:101:13-49
+	android:windowSoftInputMode
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:102:13-78
+	android:configChanges
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:100:13-113
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:99:13-53
+activity#com.dandian.admissiondemo.activity.LoginActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:104:9-108:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:106:13-49
+	android:windowSoftInputMode
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:107:13-60
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:105:13-51
+activity#com.dandian.admissiondemo.activity.SchoolActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:109:9-113:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:112:13-49
+	android:configChanges
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:111:13-74
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:110:13-52
+activity#com.dandian.admissiondemo.activity.SchoolDetailActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:114:9-118:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:117:13-49
+	android:configChanges
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:116:13-74
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:115:13-58
+activity#com.dandian.admissiondemo.activity.WebSiteActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:119:9-125:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:124:13-49
+	android:hardwareAccelerated
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:123:13-47
+	android:exported
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:122:13-36
+	android:configChanges
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:121:13-113
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:120:13-53
+activity#com.dandian.admissiondemo.activity.ImagesActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:126:9-128:52
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:128:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:127:13-52
+activity#com.dandian.admissiondemo.activity.ShowPersonInfo
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:129:9-132:52
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:132:13-49
+	android:configChanges
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:131:13-113
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:130:13-52
+activity#com.dandian.admissiondemo.activity.CourseClassActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:133:9-136:52
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:136:13-49
+	android:configChanges
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:135:13-113
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:134:13-57
+activity#com.dandian.admissiondemo.activity.LocalDocument
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:137:9-139:52
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:139:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:138:13-51
+activity#com.dandian.admissiondemo.activity.CutImageActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:140:9-142:52
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:141:13-54
+activity#com.dandian.admissiondemo.activity.EmsTraceActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:143:9-145:52
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:145:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:144:13-54
+activity#com.dandian.admissiondemo.activity.CaptureActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:148:10-154:20
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:151:13-49
+	android:windowSoftInputMode
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:153:13-60
+	android:configChanges
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:149:13-63
+	android:theme
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:152:13-71
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:150:13-53
+activity#com.dandian.admissiondemo.activity.DormBedActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:155:10-157:52
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:157:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:156:13-53
+activity#com.dandian.admissiondemo.activity.ChatFriendActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:159:10-161:52
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:161:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:160:13-56
+activity#com.dandian.admissiondemo.activity.SelectStudentActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:162:10-164:52
+	android:screenOrientation
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:164:13-49
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:163:13-59
+activity#com.mob.tools.MobUIShell
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:165:10-169:57
+	android:windowSoftInputMode
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:169:1-55
+	android:configChanges
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:168:1-62
+	android:theme
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:167:1-60
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:166:1-40
+service#com.dandian.admissiondemo.service.SchoolService
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:171:9-172:19
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:171:18-55
+receiver#com.dandian.admissiondemo.service.Alarmreceiver
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:175:9-59
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:175:19-56
+receiver#com.dandian.admissiondemo.service.CompleteReceiver
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:176:9-181:20
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:176:19-59
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:177:13-180:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:178:17-82
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:178:25-79
+action#android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:179:17-94
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:179:25-91
+receiver#com.dandian.admissiondemo.service.MyPushMessageReceiver
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:187:9-196:20
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:187:19-64
+intent-filter#action:name:com.baidu.android.pushservice.action.MESSAGE+action:name:com.baidu.android.pushservice.action.RECEIVE+action:name:com.baidu.android.pushservice.action.notification.CLICK
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:188:13-195:29
+action#com.baidu.android.pushservice.action.MESSAGE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:191:17-87
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:191:25-84
+action#com.baidu.android.pushservice.action.RECEIVE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:193:17-87
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:193:25-84
+action#com.baidu.android.pushservice.action.notification.CLICK
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:194:17-98
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:194:25-95
+receiver#com.baidu.android.pushservice.PushServiceReceiver
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:199:9-213:20
+	android:process
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:201:13-44
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:200:13-77
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MEDIA_MOUNTED+action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:com.baidu.android.pushservice.action.media.CLICK+action:name:com.baidu.android.pushservice.action.notification.SHOW
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:202:13-212:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:203:17-79
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:203:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:204:17-79
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:204:25-76
+action#com.baidu.android.pushservice.action.notification.SHOW
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:205:17-97
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:205:25-94
+action#com.baidu.android.pushservice.action.media.CLICK
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:206:17-91
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:206:25-88
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:208:17-78
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:208:25-75
+action#android.intent.action.USER_PRESENT
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:209:17-77
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:209:25-74
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:210:17-87
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:210:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:211:17-90
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:211:25-87
+receiver#com.baidu.android.pushservice.RegistrationReceiver
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:214:9-226:20
+	android:process
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:216:13-44
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:215:13-78
+intent-filter#action:name:com.baidu.android.pushservice.action.BIND_SYNC+action:name:com.baidu.android.pushservice.action.METHOD
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:217:13-220:29
+action#com.baidu.android.pushservice.action.METHOD
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:218:17-86
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:218:25-83
+action#com.baidu.android.pushservice.action.BIND_SYNC
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:219:17-89
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:219:25-86
+intent-filter#action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:221:13-225:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:222:17-80
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:222:25-77
+data
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:224:17-50
+	android:scheme
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:224:23-47
+service#com.baidu.android.pushservice.PushService
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:228:9-235:19
+	android:process
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:231:13-44
+	android:exported
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:230:13-36
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:229:13-69
+intent-filter#action:name:com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:232:13-234:29
+action#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:233:17-92
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:233:25-89
+service#com.baidu.android.pushservice.CommandService
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:236:9-238:39
+	android:exported
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:238:13-36
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:237:13-72
+provider#com.baidu.android.pushservice.PushInfoProvider
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:241:9-246:39
+	android:authorities
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:243:13-67
+	android:protectionLevel
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:245:13-50
+	android:exported
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:246:13-36
+	android:writePermission
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:244:13-105
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:242:13-74
+meta-data#api_key
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:251:9-253:56
+	android:value
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:253:13-53
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:252:13-35
+activity#com.dandian.admissiondemo.activity.BaodaoHandleActivity
+ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:256:9-259:20
+	android:label
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:258:13-65
+	android:name
+		ADDED from C:\myProjects\Admission\app\src\main\AndroidManifest.xml:257:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b376c6b3e33b7ba0f6c290336a1c5ea\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\215de8e38208636c5b19ee418c416c7b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\215de8e38208636c5b19ee418c416c7b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\78e4e52860e4747d4ea47447979ac708\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\78e4e52860e4747d4ea47447979ac708\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5ea3603121fa0774230d4ade80a42f3a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\5ea3603121fa0774230d4ade80a42f3a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2287164122cf1699c74b5f6618c0d38\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2287164122cf1699c74b5f6618c0d38\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e54879974dc3e3d63a2420b618bbd958\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e54879974dc3e3d63a2420b618bbd958\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b8202050183f346dff3c0dc9c9581a16\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b8202050183f346dff3c0dc9c9581a16\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aeafa790ae37629ea7e7ff2fd544102c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\aeafa790ae37629ea7e7ff2fd544102c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f07691581c47c65c9b827823aae1ac28\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f07691581c47c65c9b827823aae1ac28\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b376c6b3e33b7ba0f6c290336a1c5ea\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b376c6b3e33b7ba0f6c290336a1c5ea\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d15dceb65d4ca9d89c05c6b8cddd8fd0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d15dceb65d4ca9d89c05c6b8cddd8fd0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d15dceb65d4ca9d89c05c6b8cddd8fd0\AndroidManifest.xml:26:13-58

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        style="@android:style/ButtonBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="20dip" >
+
+        <ImageView
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/LoginTitle"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_large"
+            
+            android:typeface="serif" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radio0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:checked="true"
+                android:text="学生"
+                android:textColor="@color/white" />
+
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="老师"
+                android:textColor="@color/white" />
+
+        </RadioGroup>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="0dp"
+            android:orientation="vertical" >
+
+            
+
+            <TableRow
+                android:id="@+id/table_item"
+                android:layout_width="match_parent"
+                android:layout_height="45dip"
+                android:layout_marginTop="10.0dp"
+                android:background="@drawable/round_corner_bg" >
+
+                <ImageView
+                    android:id="@+id/login_userphoto"
+                    android:layout_width="35dip"
+                    android:layout_height="35dip"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="8.0dp"
+                    android:contentDescription="@null"
+                    android:paddingBottom="2dip"
+                    android:paddingTop="2dip"
+                    android:src="@drawable/shenfenzheng" />
+
+                <EditText
+                    android:id="@+id/login_username"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dip"
+                    android:layout_marginRight="10.0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_title_bar_btn"
+                    android:gravity="left|center"
+                    android:hint="@string/hint_login_idcard"
+                    android:inputType="text"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_normal" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="45dip"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="10.0dp"
+                android:background="@drawable/round_corner_bg" >
+
+                <ImageView
+                    android:id="@+id/login_passwordphoto"
+                    android:layout_width="35dip"
+                    android:layout_height="35dip"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="8.0dp"
+                    android:contentDescription="@null"
+                    android:paddingBottom="2dip"
+                    android:paddingTop="2dip"
+                    android:src="@drawable/login_password" />
+
+                <EditText
+                    android:id="@+id/login_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dip"
+                    android:layout_marginRight="10.0dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:gravity="left|center"
+                    android:hint="@string/hint_login_password"
+                    android:inputType="textPassword"
+                    android:maxLength="30"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_normal" />
+
+                <Button
+                    android:id="@+id/btn_getcode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="36dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/bg_title_bar_btn"
+                    android:text="@string/sms_verify"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/text_size_small" />
+
+            </TableRow>
+        </TableLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="2dip" >
+
+            <Button
+                android:id="@+id/btn_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_title_bar_btn"
+                android:text="@string/login"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/text_size_normal" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_copyright"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_marginTop="5dip"
+            android:gravity="bottom"
+            android:text="@string/login_bottom"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/text_size_micro" />
+    </LinearLayout>
+
+</LinearLayout>
